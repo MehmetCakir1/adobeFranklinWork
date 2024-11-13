@@ -150,8 +150,7 @@ header .nav-brand {
 
 header nav .nav-brand img {
   width: 100px;
-  object-fit: contain;
-  height: 100%;
+  aspect-ratio: 16/9;
 }
 
 /* sections */
